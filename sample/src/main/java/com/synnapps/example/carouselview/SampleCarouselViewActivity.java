@@ -1,7 +1,6 @@
 package com.synnapps.example.carouselview;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
@@ -14,6 +13,8 @@ import com.synnapps.carouselview.CarouselView;
 import com.synnapps.carouselview.ImageClickListener;
 import com.synnapps.carouselview.ImageListener;
 import com.synnapps.carouselview.ViewListener;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class SampleCarouselViewActivity extends AppCompatActivity {
 
